@@ -358,7 +358,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>ICBme DEX</title>
+        <title>Olame DEX</title>
         <meta name="description" content="Olame DEX" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
