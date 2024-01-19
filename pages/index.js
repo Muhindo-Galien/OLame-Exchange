@@ -58,7 +58,7 @@ export default function Home() {
       console.error(err);
     }
   };
-  
+
   const _swapTokens = async () => {
     try {
       const swapAmountWei = utils.parseEther(swapAmount);
@@ -359,7 +359,7 @@ export default function Home() {
     <div>
       <Head>
         <title>ICBme DEX</title>
-        <meta name="description" content="ICBme DEX" />
+        <meta name="description" content="Olame DEX" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
